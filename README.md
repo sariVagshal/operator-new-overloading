@@ -5,7 +5,7 @@ In this exercise, actualy, I practice two Issues:
 The overriding in C++, and the 'operator new', and I'l explain:
 
 In C++, for every type of struct, there is some functions the compiler provides us: default CTOR, DTOR, operator functions, and more. 
-But, I - as the developer - can change them behavior by overriding them.
+But, I - as the developer - can change their behavior by overriding them.
 In this exercise I choose override the new and delete operators (not the delete[] operator).
 why exactly them? so with the answer take us to the second Issue of the exercise:
 
